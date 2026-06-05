@@ -54,7 +54,7 @@ CREATE TABLE livros (
 
 ```
 ### 2. Configuração do Backend
-####Instale as dependências na pasta backend
+#### Instale as dependências na pasta backend
 ```
 npm install
 ```
@@ -72,12 +72,12 @@ npm run dev
 ```
 
 ### 3. Configuração do Frontend
-####Instale as dependências na pasta frontend
+#### Instale as dependências na pasta frontend
 ```
 npm install
 ```
 
-####Inicie a aplicação
+#### nicie a aplicação
 ```
 npm run dev
 ```
