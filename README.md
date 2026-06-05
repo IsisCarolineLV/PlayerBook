@@ -1,4 +1,4 @@
-#Playerbook
+# Playerbook  
 
 Um projeto fullstack desenvolvido para experimentar fontend, backend e fullstack.
 Consiste numa plataforma para criar playlists para ouvir enquanto lê determinado livro.
@@ -65,3 +65,12 @@ DB_NAME=leitura_playlists
 
 # Inicie o servidor em modo de desenvolvimento
 npm run dev
+
+### 3. Configuração do Frontend
+# Instale as dependências na pasta frontend
+npm install
+
+# Inicie a aplicação
+npm run dev
+
+Acesse o link gerado pelo Vite (geralmente http://localhost:5173) no seu navegador.
