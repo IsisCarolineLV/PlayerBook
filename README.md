@@ -52,6 +52,7 @@ CREATE TABLE livros (
     autor VARCHAR(255) NOT NULL
 );
 
+```
 ### 2. Configuração do Backend
 # Instale as dependências na pasta backend
 npm install
