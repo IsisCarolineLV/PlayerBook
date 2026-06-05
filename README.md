@@ -54,8 +54,10 @@ CREATE TABLE livros (
 
 ```
 ### 2. Configuração do Backend
-# Instale as dependências na pasta backend
+####Instale as dependências na pasta backend
+```
 npm install
+```
 
 # Crie um arquivo .env na raiz da pasta backend com as seguintes variáveis:
 DB_USER=seu_usuario_postgres
@@ -65,13 +67,19 @@ DB_PORT=5432
 DB_NAME=leitura_playlists
 
 # Inicie o servidor em modo de desenvolvimento
+```
 npm run dev
+```
 
 ### 3. Configuração do Frontend
-# Instale as dependências na pasta frontend
+####Instale as dependências na pasta frontend
+```
 npm install
+```
 
-# Inicie a aplicação
+####Inicie a aplicação
+```
 npm run dev
+```
 
 Acesse o link gerado pelo Vite (geralmente http://localhost:5173) no seu navegador.
